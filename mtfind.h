@@ -10,7 +10,7 @@
 
 struct Match {
 	size_t line;
-	int64_t pos;
+	size_t pos;
 	std::string text;
 };
 

@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="mtfind.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="mtfind_manager.cpp">
+    <ClCompile Include="mtfind.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="mtfind_manager.h">
+    <ClInclude Include="mtfind.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
